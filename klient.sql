@@ -4,4 +4,5 @@ CREATE TABLE oplata (
     nomer INT NOT NULL,      
     data VARCHAR(6),
     csv INT NOT NULL
+    HAHAHA INT
 );
